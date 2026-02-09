@@ -5,7 +5,7 @@
 ![Durum](https://img.shields.io/badge/Durum-Tamamlandı-green)
 
 ## 📝 Proje Hakkında
-Bu proje, ** Titanik Veri Seti** kullanılarak geliştirilmiş bir veri analizi ve makine öğrenmesi çalışmasıdır. Projenin temel amacı ** yolcuların hayatta kalma durumunu tahmin etmek ** ve veriden anlamlı içgörüler çıkarmaktır.
+Bu proje, **Titanik Veri Seti** kullanılarak geliştirilmiş bir veri analizi ve makine öğrenmesi çalışmasıdır. Projenin temel amacı **yolcuların hayatta kalma durumunu tahmin etmek** ve veriden anlamlı içgörüler çıkarmaktır.
 
 ### 🎯 Hedefler
 * Veri setini temizlemek ve analize hazır hale getirmek.
