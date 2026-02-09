@@ -21,7 +21,7 @@ Projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 * **Scikit-learn:** Makine öğrenmesi modelleri ve metrikler için.
 
 ## 📂 Dosya Yapısı
-* `Titanic_Veri_Seti_Projesi.ipynb`: Projenin tüm kodlarını, analizlerini ve görselleştirmelerini içeren ana Jupyter Notebook dosyası.
+* `Titanic_Veri_Analizi_Projesi.ipynb`: Projenin tüm kodlarını, analizlerini ve görselleştirmelerini içeren ana Jupyter Notebook dosyası.
 * `gender_submission.csv`: Analizde kullanılan ham veri seti.
 
 ## 🚀 Kurulum ve Çalıştırma
